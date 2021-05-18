@@ -7,4 +7,4 @@ The model reaches the overall 71.24% accuracy rate on the test set.
 The whole training is completed on the Google Colab. 
 
 ### Update:
-Build the model with the more complex EfficientNet B3, and the model reaches the 
+Build the model with the more complex EfficientNet B3, and the model reaches the 81.29% accuracy rate on the test set. 
