@@ -5,3 +5,6 @@ The model is built on with the empowerment from using feature extraction and and
 The model reaches the overall 71.24% accuracy rate on the test set.
 
 The whole training is completed on the Google Colab. 
+
+### Update:
+Build the model with the more complex EfficientNet B3, and the model reaches the 
